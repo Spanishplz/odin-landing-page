@@ -62,8 +62,8 @@ header ul li {
     flex-wrap: wrap;
 }
 .hero div:nth-child(1) {
-    max-width: 450px;
-    flex-grow:1;
+    /* max-width: 450px; */
+    flex: 0 2 450px;
 }
 
 .hero h2 {
@@ -88,6 +88,18 @@ header a, .hero p {
     text-decoration: none;
 }
 
+.signup-buttons {
+    height: 30px;
+    width: 80px;
+    min-width: 80px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+.hero .signup-buttons {
+    border: none;
+}
 
 /* second section */
 body section:nth-child(2) {
@@ -177,16 +189,14 @@ body .section:nth-child(4) {
     font-size: 26px;
     margin-bottom: 10px;
 }
-
 .signup-div button {
     height: 30px;
     width: 80px;
     min-width: 80px;
     background-color: #3882F6;
     border: 2px solid white;
-    border-radius: 10px;
-    color: white;
-    font-weight: 700;
+
+
 }
 footer {
     background-color: #1F2937;
