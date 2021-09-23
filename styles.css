@@ -48,9 +48,7 @@ header ul {
     display: flex;
     column-gap: 25px;
 }
-header ul li {
 
-}
  /* hero  */
 .hero {
     width: 70%;
@@ -96,6 +94,9 @@ header a, .hero p {
     border-radius: 10px;
     font-weight: 700;
     color: white;
+}
+.signup-buttons:hover {
+    background-color: #085792;
 }
 .hero .signup-buttons {
     border: none;
