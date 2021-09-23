@@ -1,7 +1,8 @@
-# Objective: Project done under Odin Project curriculum guidance.
+## Project done under The Odin Project curriculum guidance:
+ - Practice of HTML and CSS.
 ## Things learned:
  - Now I have a better understanding of flexbox.
- - Improved the way I structure basic webpages.  
+ - Improved the way I structure basic webpages.
 ## Credits for images:
  - Tree logo: Image by Łukasz Siwy from Pixabay
  - Sunset: Image by Hervé Lagrange from Pixabay
